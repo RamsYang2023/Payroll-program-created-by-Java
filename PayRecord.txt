@@ -1,0 +1,9 @@
+
+Employee Id = 1011, Status = FullTime, Person: [First Name = Jack, Last Name = Johnson, address:  [street = 1246 Drake St, houseNumber = 104, city = Fort Collins, state = Coloardo, zipCode = 80526 ]]
+Record ID = 15, Pay ID = 4, Pay start date: Mon Mar 16 00:00:00 MDT 2020, Pay end date: Fri Nov 20 00:00:00 MST 2020, Gross pay: $28000.00, Net pay: $18200.00
+
+Employee Id = 1021, Status = Hourly, Person: [First Name = John, Last Name = Filis, address:  [street = 1022 Shorebird Dr, houseNumber = 12, city = Fort Collins, state = Colorado, zipCode = 80525 ]]
+Record ID = 10, Pay ID = 1, Pay start date: Tue Jan 01 00:00:00 MST 2019, Pay end date: Sat Jan 05 00:00:00 MST 2019, Gross pay: $474.00, Net pay: $308.10
+
+Employee Id = 1034, Status = FullTime, Person: [First Name = Alice, Last Name = Walter, address:  [street = 5811 S College Ave, houseNumber = 156, city = Fort Collins, state = Colorado, zipCode = 80525 ]]
+Record ID = 18, Pay ID = 7, Pay start date: Sun Jun 14 00:00:00 MDT 2020, Pay end date: Fri Dec 18 00:00:00 MST 2020, Gross pay: $30000.00, Net pay: $19500.00
